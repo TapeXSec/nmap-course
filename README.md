@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VIDEO-10:47-0d1117?style=for-the-badge&labelColor=0d1117&color=1f2a35">
+<a href="https://www.youtube.com/watch?v=WZ4BAQYuzg8"><img src="https://img.shields.io/badge/YouTube-WATCH_10:47-0d1117?style=for-the-badge&logo=youtube&logoColor=8FD9B6&labelColor=0d1117"></a>
 <img src="https://img.shields.io/badge/LEVEL-BEGINNER-0d1117?style=for-the-badge&labelColor=0d1117&color=1f2a35">
 <img src="https://img.shields.io/badge/PRICE-FREE-0d1117?style=for-the-badge&labelColor=0d1117&color=1f2a35">
 <a href="https://t.me/TapeXSec"><img src="https://img.shields.io/badge/Telegram-TapeXSec-0d1117?style=for-the-badge&logo=telegram&logoColor=8FD9B6&labelColor=0d1117"></a>
@@ -19,7 +19,7 @@
 
 # Nmap Basics: Find Every Open Door
 
-📺 **Video:** *link coming soon*
+📺 **Video:** [Nmap Lesson 1 | Basics for Beginners](https://www.youtube.com/watch?v=WZ4BAQYuzg8)
 
 > Every attack starts with one question: **what is running on this machine?**
 > In this lesson you'll learn to answer it with Nmap.
